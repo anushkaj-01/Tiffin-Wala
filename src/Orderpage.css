@@ -1,0 +1,23 @@
+#order{
+    width: 100%;
+    margin: 0;
+}
+.tiffin-id{
+    padding: 0  5% ;
+}
+
+.menu-list{
+    background-color: #A3BB98;
+}
+
+@media (max-width:1020px){
+    .description{
+        text-align: center;
+    }
+
+    .landing-bg{
+        
+        width: 100%;
+        height: 100%;
+    }
+}
